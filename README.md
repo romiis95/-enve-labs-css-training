@@ -1,1 +1,1 @@
-# enve-labs-git-training
+# enve-labs-css-training
